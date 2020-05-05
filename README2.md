@@ -17,6 +17,7 @@
 -Diseño: 1h
 -Diagrama UML 25min
 -Diagrama objetos 15min
+
 *Herramienta Usada:
 -Navegador Chrome
 -Mockflow
@@ -24,6 +25,7 @@
 -Discord
 -GitHub
 -Creately
+
 *Bibliografia:
 -https://www.mockflow.com/
 -https://creately.com/
