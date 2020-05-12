@@ -8,7 +8,7 @@
 1. Jose Manuel Rebolledo Rivera
 
 
-![Diagrama de Clases](imágen/Diagrama_de_Clases.jpg)
+![Diagrama de Clases](./imágen/Diagrama_de_Clases.jpg)
 
 
 
